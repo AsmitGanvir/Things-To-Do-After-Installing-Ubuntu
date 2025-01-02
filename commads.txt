@@ -1,0 +1,68 @@
+# Install codecs for multimedia playback
+sudo apt install ubuntu-restricted-extras -y
+
+# Install a web browser (optional, if not already installed)
+sudo apt install firefox -y 
+
+# Install a code editor (optional)
+sudo apt install code -y 
+
+# Install a terminal emulator (optional, if you prefer an alternative)
+sudo apt install terminator -y
+
+# Install build-essential for compiling software
+sudo apt install build-essential -y
+
+# Install a package manager like apt-fast or nala (optional)
+# sudo apt install apt-fast 
+# or
+# sudo apt install nala
+
+# Install a file manager (optional, if you prefer an alternative)
+sudo apt install nautilus -y 
+
+# Install a text editor (optional)
+sudo apt install gedit -y 
+
+# Install a media player (optional)
+sudo apt install vlc -y 
+
+# Install a PDF reader (optional)
+sudo apt install evince -y 
+
+# Install a cloud storage client (optional)
+# For Google Drive: 
+# sudo apt install google-drive-ocamlfuse 
+
+# Install a messaging client (optional)
+sudo apt install telegram-desktop -y 
+
+# Install a communication tool (optional)
+sudo apt install skypeforlinux -y 
+
+# Install virtualization software (optional)
+sudo apt install virtualbox -y 
+
+# Install a programming language (optional)
+# For Python: 
+sudo apt install python3 python3-pip -y
+# For Node.js and npm:
+sudo apt install nodejs npm -y
+
+# Install a version control system (optional)
+# git is already installed in the "essential tools" section
+
+# Install a game launcher (optional)
+sudo apt install steam -y
+
+# Install a torrent client (optional)
+# sudo apt install qbittorrent -y 
+
+# Configure the system (optional)
+# Install and configure GNOME Tweaks
+# Install and configure extensions 
+
+# Customize your desktop environment (optional)
+# Change wallpapers, themes, icons, etc.
+
+# Note: This is a basic list of commands. You can customize it further based on your needs and preferences.
