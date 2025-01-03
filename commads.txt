@@ -1,4 +1,6 @@
+# Try these commands in a chronological order
 # Install codecs for multimedia playback
+
 sudo apt install ubuntu-restricted-extras -y
 
 # Install a web browser (optional, if not already installed)
